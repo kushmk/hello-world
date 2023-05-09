@@ -6,7 +6,7 @@ This is my first repository for testing and learning purpose.
 >Languages i have learnt
 1.JavaScript
 2.HTML
-3.CSS
+4.CSS
 
 
 
